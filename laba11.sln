@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba11", "laba11.csproj", "{0599F808-2C06-4484-8E55-BC4136333742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba - 11", "..\Laba - 11\Laba - 11.csproj", "{4C74A452-7D8F-475A-967B-7276CA1ABD60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLaba11", "..\TestLaba11\TestLaba11.csproj", "{7823075F-6577-4A46-9349-DFF25D525E50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0599F808-2C06-4484-8E55-BC4136333742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0599F808-2C06-4484-8E55-BC4136333742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0599F808-2C06-4484-8E55-BC4136333742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0599F808-2C06-4484-8E55-BC4136333742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C74A452-7D8F-475A-967B-7276CA1ABD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C74A452-7D8F-475A-967B-7276CA1ABD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C74A452-7D8F-475A-967B-7276CA1ABD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C74A452-7D8F-475A-967B-7276CA1ABD60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7823075F-6577-4A46-9349-DFF25D525E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7823075F-6577-4A46-9349-DFF25D525E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7823075F-6577-4A46-9349-DFF25D525E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7823075F-6577-4A46-9349-DFF25D525E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6466ECED-86BB-4651-AFF7-FFD816097987}
+	EndGlobalSection
+EndGlobal
