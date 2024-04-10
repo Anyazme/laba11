@@ -1,0 +1,20 @@
+C:\Users\zmeev\source\repos\laba11\bin\Debug\net7.0\laba11.deps.json
+C:\Users\zmeev\source\repos\laba11\bin\Debug\net7.0\laba11.dll
+C:\Users\zmeev\source\repos\laba11\bin\Debug\net7.0\laba11.pdb
+C:\Users\zmeev\source\repos\laba11\bin\Debug\net7.0\Laba10.dll
+C:\Users\zmeev\source\repos\laba11\bin\Debug\net7.0\Laba10.pdb
+C:\Users\zmeev\source\repos\laba11\obj\Debug\net7.0\laba11.csproj.AssemblyReference.cache
+C:\Users\zmeev\source\repos\laba11\obj\Debug\net7.0\laba11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zmeev\source\repos\laba11\obj\Debug\net7.0\laba11.AssemblyInfoInputs.cache
+C:\Users\zmeev\source\repos\laba11\obj\Debug\net7.0\laba11.AssemblyInfo.cs
+C:\Users\zmeev\source\repos\laba11\obj\Debug\net7.0\laba11.csproj.CoreCompileInputs.cache
+C:\Users\zmeev\source\repos\laba11\obj\Debug\net7.0\laba11.csproj.Up2Date
+C:\Users\zmeev\source\repos\laba11\obj\Debug\net7.0\laba11.dll
+C:\Users\zmeev\source\repos\laba11\obj\Debug\net7.0\refint\laba11.dll
+C:\Users\zmeev\source\repos\laba11\obj\Debug\net7.0\laba11.pdb
+C:\Users\zmeev\source\repos\laba11\obj\Debug\net7.0\ref\laba11.dll
+C:\Users\zmeev\source\repos\laba11\bin\Debug\net7.0\Laba - 11.deps.json
+C:\Users\zmeev\source\repos\laba11\bin\Debug\net7.0\Laba - 11.runtimeconfig.json
+C:\Users\zmeev\source\repos\laba11\bin\Debug\net7.0\Laba - 11.exe
+C:\Users\zmeev\source\repos\laba11\bin\Debug\net7.0\Laba - 11.dll
+C:\Users\zmeev\source\repos\laba11\bin\Debug\net7.0\Laba - 11.pdb

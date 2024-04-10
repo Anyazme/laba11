@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Laba - 11\Laba - 11.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Laba10">
+      <HintPath>..\Laba10\obj\Debug\net7.0\Laba10.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
